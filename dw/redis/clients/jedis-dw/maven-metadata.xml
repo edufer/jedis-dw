@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>redis.clients</groupId>
+  <groupId>dw.redis.clients</groupId>
   <artifactId>jedis-dw</artifactId>
   <versioning>
     <release>2.2.0</release>
     <versions>
       <version>2.2.0</version>
     </versions>
-    <lastUpdated>20130108230408</lastUpdated>
+    <lastUpdated>20130108232220</lastUpdated>
   </versioning>
 </metadata>
